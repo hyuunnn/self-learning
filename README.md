@@ -15,4 +15,4 @@
 * <a href="https://github.com/practical-tutorials/project-based-learning">Project Based Learning</a> - practical-tutorials
 * <a href="https://github.com/MattPD/cpplinks">cpplinks</a> - MattPD
 * <a href="https://bernsteinbear.com/pl-resources/">Programming languages resources</a>
-* <a href="https://www.reddit.com/r/Compilers/comments/rvnesz/resources_for_learning_compiler_design/">Resources for learning Compiler design?</a> - reddit
+* <a href="https://www.reddit.com/r/Compilers/comments/17lgm9e/comment/k7ghnwd/">Best Book to learn compiler from beginning</a> - reddit
